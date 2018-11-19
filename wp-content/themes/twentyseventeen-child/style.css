@@ -10,6 +10,22 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+	color: green;
+	font-family: "PT-Serif";
 }
 
+/*.site-info {display: none}*/
+.site-branding {display: none}
+
+input[type = submit] {
+	background-color: #767676;
+}
+
+label {
+	color: #767676;
+	font-weight: 400;
+}
+
+div.caption {
+	font-size: 0.5em;
+}
