@@ -1,1 +1,4 @@
 [19-Nov-2018 19:38:28 UTC] PHP Fatal error:  Cannot redeclare my_google_fonts() (previously declared in /Users/student/Desktop/soundblogChildLQ/wp-content/themes/twentyseventeen-child/functions.php:14) in /Users/student/Desktop/soundblogChildLQ/wp-content/themes/twentyseventeen-child/functions.php on line 20
+[26-Nov-2018 17:39:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/student/Desktop/soundblogChildLQ/wp-content/plugins/concerts-custom-post.php on line 44
+[26-Nov-2018 17:39:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/student/Desktop/soundblogChildLQ/wp-content/plugins/concerts-custom-post.php on line 44
+[26-Nov-2018 17:39:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/student/Desktop/soundblogChildLQ/wp-content/plugins/concerts-custom-post.php on line 44

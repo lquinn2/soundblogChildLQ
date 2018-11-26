@@ -29,3 +29,7 @@ label {
 div.caption {
 	font-size: 0.5em;
 }
+
+.concerts p {
+	color:blue;
+}
